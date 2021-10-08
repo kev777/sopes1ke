@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "round-mark-324101",
+  "private_key_id": "8bcc42b5d3315950add4293fc5bfbc5fcffdd187",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCfpvO97J4fuQYC\ni3TNjCba6bTz1jJBa0wHL8ViwWZxO6X/tagzoxUHq9iGzlewHpsXdUx19I2znVAB\nk+hjKubW9PIXjfM/a0YNgfgcWUbe4BzKtMCBs7o3JgNC2WYRylrBk4Qxwl0slsAd\nCZAw34p2NnhguIODbt11MDnvfgQoo6B1oAvUuRcycQC99hzM3mgySxKLslOVXhY6\nx89kLlmRaG6cxhP2AH5+iGxJH0PE8IqScHcvavwj5xDhWqEFCBYJ62f8b3v4RRyl\nkaK14m7c6NZsaOhob6xxa8m+OzYOEhY/60MbmwHq9PjXrScFm8Xr6tjWFKGZAEfT\nW+igdpojAgMBAAECggEADAg4lBvqRN4cZ60Gm1vQgoIc4EhIgalU/FurfB2y8J4R\nYiauK7TC59DvNiWvR8zesmi636Q+g7FmRLWBd5aATuX8qC12DisHB2CVXYmVmkQj\nV1xCVTlsM4N6uRs09+qbZr234kom3IPrVvo6suborVpokx2E0oR/TeQvEZoaindq\npXKJ9jNNECu8gvd51XLSVP36gzJdBXH06srzX1+eZAvr9ZpzGxJX8JR3BkiAXviu\nGH/SMfSfw3QQ+5YVRs1DqhUULuwjfRAe49bO804obMfi5E6dpFJLRw+I9yZ8yxu6\noEEiMug8TAYzTZ/TSnqMVma6fmOGtNENR24JzJ7LxQKBgQDT/5LBewL1X3dpRvZm\nF/VsP9p5I7GlolRgy/IszizwxWaNfrOYLLO7VBZHb4cBP/q9vXGl2o+kFFjTHTcg\nbh5KaTwj+R+j7uPdkvV5lCjHRhyceGpm3Kb4UFoqR/WfMlbCeW2uEV7W5xf8KVL2\n7sjf5vw5x1SXQYS87GKyaOR8nwKBgQDAyf2ZXv5CDjpNJYEpjv8gkP2n74dic2OQ\ncFpkAEAEAyox0zdb24nInuEvg6QYW0kj6CJCf3ZZbiWL+HvzH7NkbqfOOlJwpmmM\n48m9RC/cFFC7I7ZlIPtR2T3H/hisHwYkJwvRAYFGCAKDQEQcxm8rLmJxN0xFlWgi\nva6+yFHv/QKBgQCgCol8vOOv34EjHeo3ipDBRrckynh65UAzzuMlRgSRQ0S3PtZP\n5DdPDRzAkwZlQCqHgPPB1Gyp3p5rydtrBRai8Czxr0lelaK6DA562Qmr3lcNHK6e\ntqbqQKbA0pAvvW3X5JmTVhO1wsHNoFi8h+lndlYlPEC060ZM5Vtg+mS7WwKBgQCg\n773hK5iLIf9vaVCSlcnKsN7fMyjMedDywafjdQX7k3zEzTKYXwN9U4xeMsFoh8Pd\n0qnO40Kz0yxK1Wr7gUorG+i/UpaBbZoNQBaoBeUCDn96SYy4jTjfkb9uVWLZRKjG\nw0Ws+1mkUYlvcdWqQ8iHvpf1NRlZuSiOX9QhdW5ZLQKBgGrFUODEQQVWkWpRT7bF\nNQi4Ysunze3c0VYt8EhKlqAwt6UWuTAatYoUH/qBBQsZ+lhOYCJyupdqLyTyFTBq\nhm+JW4ibtoFPzxBigWrgUqte+thDvDvwZHwCqi3frcJ4g0olKJkWjFzwmUuK/FNo\ncFuqE7Pi+MPjbu2v7K4IMEEg\n-----END PRIVATE KEY-----\n",
+  "client_email": "acceder-mysql@round-mark-324101.iam.gserviceaccount.com",
+  "client_id": "100215633840747916766",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/acceder-mysql%40round-mark-324101.iam.gserviceaccount.com"
+}
